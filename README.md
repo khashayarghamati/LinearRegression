@@ -13,12 +13,13 @@ Run:
 
 Example:
 
-X and Y:
-
+#### X:
 ![X](https://raw.githubusercontent.com/khashayarghamati/linearRegression/master/img/x.png)
+
+#### Y:
 ![Y](https://raw.githubusercontent.com/khashayarghamati/linearRegression/master/img/y.png)
 
-
+#### Result:
 ![Result](https://raw.githubusercontent.com/khashayarghamati/linearRegression/master/img/result.png)
 
 
