@@ -18,13 +18,6 @@ X and Y:
 ![X](https://raw.githubusercontent.com/khashayarghamati/linearRegression/master/img/x.png)
 ![Y](https://raw.githubusercontent.com/khashayarghamati/linearRegression/master/img/y.png)
 
-Beta1 :
-
-  `61.27218654`
-  
-Beta2:
-
-`-39.06195592`
 
 ![Result](https://raw.githubusercontent.com/khashayarghamati/linearRegression/master/img/result.png)
 
