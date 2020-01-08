@@ -1,4 +1,4 @@
-#linear regression
+# linear regression
 
 ## this code estimates coefficients of linear regression function and draw it.
 
