@@ -9,6 +9,6 @@ Install project requirements:
 ` pip install -r requirements.txt`
 
 Run:
-`python LinearRegression.py`
+`python3 linearRegression.py`
 
 
