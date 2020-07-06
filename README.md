@@ -1,6 +1,6 @@
 # linear regression
 
-## this code estimates coefficients of linear regression function and draw it.
+## this code estimates coefficients of linear regression function by OSL and MLE methods and draw them.
 
 
 ## Usage:
@@ -10,17 +10,5 @@ Install project requirements:
 
 Run:
 `python LinearRegression.py`
-
-Example:
-
-#### X:
-![X](https://raw.githubusercontent.com/khashayarghamati/linearRegression/master/img/x.png)
-
-#### Y:
-![Y](https://raw.githubusercontent.com/khashayarghamati/linearRegression/master/img/y.png)
-
-#### Result:
-![Result](https://raw.githubusercontent.com/khashayarghamati/linearRegression/master/img/result.png)
-
 
 
